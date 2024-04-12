@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  svc1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-12T11:05:41.374608+02:00"
+    description: A Helm chart for Kubernetes
+    digest: b972df0b8238f57716e52f51982ba4ed35c3fa4c4ce99cdc5851dd5951494f6d
+    name: svc1
+    type: application
+    urls:
+    - https://gsamr.github.io/helm/svc1-0.1.0.tgz
+    version: 0.1.0
+  svc2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-12T11:05:41.374818+02:00"
+    description: A Helm chart for Kubernetes
+    digest: c6ee360b056f1cd3fd62c2993c45efc062b5d201276d94437dc22cc76aa3ee99
+    name: svc2
+    type: application
+    urls:
+    - https://gsamr.github.io/helm/svc2-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-12T11:05:41.373992+02:00"
