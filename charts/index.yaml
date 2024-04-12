@@ -9,7 +9,7 @@ entries:
     name: svc1
     type: application
     urls:
-    - https://github.com/gsamr/helm/tree/main/charts/svc1-0.1.0.tgz
+    - https://gsamr.github.io/helm/charts/svc1-0.1.0.tgz
     version: 0.1.0
   svc2:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: svc2
     type: application
     urls:
-    - https://github.com/gsamr/helm/tree/main/charts/svc2-0.1.0.tgz
+    - https://gsamr.github.io/helm/charts/svc2-0.1.0.tgz
     version: 0.1.0
 generated: "2024-04-12T10:33:53.112165+02:00"
