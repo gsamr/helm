@@ -1,1 +1,2 @@
 name: "dev"
+replicas: 2
